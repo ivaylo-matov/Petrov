@@ -47,3 +47,14 @@ I've been a BIM Manager for the last 6 years and I've enjoyed every day of it. I
 :e-mail: ivaylo.matov@gmail.com
 
 :desktop_computer: https://www.linkedin.com/in/ivo-petrov-abb07261/
+
+## And lastly, a BIG thanks to :
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
