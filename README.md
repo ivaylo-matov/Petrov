@@ -19,7 +19,7 @@ I've been a BIM Manager for the last 6 years and I've enjoyed every day of it. I
 - [x] [Kipple](https://github.com/ivaylo-matov/kipple-1-cs.git) in C#
 - [x] [ACG Tools](https://github.com/ivaylo-matov/acg-tools-dyn.git) in Dynamo & Python
 
-## My education & certificats :
+## My education & certificates :
 **Data Science Bootcamp** | HyperionDev
   - [x] software development with Python and SQL
   - [x] Data transformation, manipulation and visualization
@@ -50,11 +50,6 @@ I've been a BIM Manager for the last 6 years and I've enjoyed every day of it. I
 
 ## And lastly, a BIG thanks to :
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+<a href="https://github.com/ivaylo-matov/kipple-1-cs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ivaylo-matov/kipple-1-cs" />
+</a>
