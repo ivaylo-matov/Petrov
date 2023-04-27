@@ -1,9 +1,8 @@
 # Hi, I'm Ivo.
 
 ## I love tooling and I hate clicking.
-I have a Masters Degree in Architecture and I work as an Information Manager. I am passionate for technology
-and have experience with automation, coding and data analytics. I am a hard worker, have critical thinking
-and excellent problem solving abilities. 
+I have a Masters Degree in Architecture, I've worked a few years as an Architect and then gradually moved towards BIM.
+I've been a BIM Manager for the last 6 years and I've enjoyed every day of it. I'm passionate for technology and have experience with automation, coding and data analytics. I'm very much a focused and purpose driven person. 
 
 ## Here is some of my Tech Stack:
 - [x] Python
@@ -37,15 +36,14 @@ and excellent problem solving abilities.
  
  **BIM Professional** | BRE
 
-## You can hind me at :
-
-:e-mail: ivaylo.matov@gmail.com
-
-:desktop_computer: https://www.linkedin.com/in/ivo-petrov-abb07261/
-
 ## My interests & hobbies are :
  - [x] coding
  - [x] sustainability
  - [x] purpose driven live
  - [x] health
 
+## You can find me at :
+
+:e-mail: ivaylo.matov@gmail.com
+
+:desktop_computer: https://www.linkedin.com/in/ivo-petrov-abb07261/
