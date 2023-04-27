@@ -37,7 +37,7 @@ hard work, critical thinking and excellent problem solving abilities.
  
  **BIM Professional** | BRE
 
-## Contact information
+## Contact Information
 
 :e-mail: ivaylo.matov@gmail.com
 
