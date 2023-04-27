@@ -1,7 +1,7 @@
 # Hi, I'm Ivo.
 
 ## I love tooling and I hate clicking.
-I have a Masters Degree in Architecture, I am passionate for technology Information Manager
+I have a Masters Degree in Architecture and I am passionate for technology Information Manager
 with experience with automation, coding and data analytics. Always eager to contribute through
 hard work, critical thinking and excellent problem solving abilities. 
 
