@@ -7,6 +7,7 @@ I've been a BIM Manager for the last 6 years and I've enjoyed every day of it. I
 ## Here is some of my Tech Stack:
 - [x] Python
 - [x] C#
+- [x] TypeScript
 - [x] SQL
 - [x] Revit API
 - [x] CDE
@@ -18,6 +19,7 @@ I've been a BIM Manager for the last 6 years and I've enjoyed every day of it. I
 ## You can check out some of my projects in the links below :
 - [x] [Kipple](https://github.com/ivaylo-matov/kipple-1-cs.git) in C#
 - [x] [ACG Tools](https://github.com/ivaylo-matov/acg-tools-dyn.git) in Dynamo & Python
+- [x] [Grasshopper](https://github.com/ivaylo-matov/grasshopper.git) in Rhino & Grasshopper
 
 ## My education & certificates :
 **Data Science Bootcamp** | HyperionDev
