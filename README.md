@@ -20,7 +20,7 @@ I've been a BIM Manager for the last 6 years and I've enjoyed every day of it. I
 - [x] [Kipple](https://github.com/ivaylo-matov/kipple-1-cs.git) in C#
 - [x] [Funion](https://github.com/ivaylo-matov/funion-cs.git) in C#
 - [x] [ACG Tools](https://github.com/ivaylo-matov/acg-tools-dyn.git) in Dynamo & Python
-- [x] [Gogglehop](https://github.com/ivaylo-matov/gigglehop-gh.git) in Rhino & Grasshopper
+- [x] [Gigglehop](https://github.com/ivaylo-matov/gigglehop-gh.git) in Rhino & Grasshopper
 
 ## My education & certificates :
 **Data Science Bootcamp** | HyperionDev
