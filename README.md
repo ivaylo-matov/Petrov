@@ -5,11 +5,12 @@ I have a Masters Degree in Architecture, I've worked a few years as an Architect
 I've been a BIM Manager for the last 6 years and I've enjoyed every day of it. I'm passionate for technology and have experience with automation, coding and data analytics. I'm very much a focused and purpose driven person. 
 
 ## Here is some of my Tech Stack:
+- [x] Revit API
+- [x] Forge API
 - [x] Python
 - [x] C#
 - [x] TypeScript
 - [x] SQL
-- [x] Revit API
 - [x] CDE
 - [x] WPF
 - [x] Git
