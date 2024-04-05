@@ -10,7 +10,7 @@ I've been a BIM Manager for the last 6 years and I've enjoyed every day of it. I
 - [x] Python
 - [x] C#
 - [x] TypeScript
-- [x] SQL
+- [ ] SQL
 - [x] CDE
 - [x] WPF
 - [x] Git
